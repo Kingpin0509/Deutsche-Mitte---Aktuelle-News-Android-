@@ -3,9 +3,6 @@
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
-    <feature name="EmailComposer">
-        <param name="android-package" value="de.martinreinhardt.cordova.plugins.email.EmailComposer" />
-    </feature>
     <feature name="FacebookConnectPlugin">
         <param name="android-package" value="org.apache.cordova.facebook.ConnectPlugin" />
         <param name="onload" value="true" />
@@ -37,11 +34,8 @@
         <param name="android-package" value="io.ionic.keyboard.IonicKeyboard" />
         <param name="onload" value="true" />
     </feature>
-    <feature name="BarcodeScanner">
-        <param name="android-package" value="com.phonegap.plugins.barcodescanner.BarcodeScanner" />
-    </feature>
-    <name>Deutsche Mitte</name>
-    <description>DM News</description>
+    <name>DM'N</name>
+    <description>Stets aktuelle Nachrichten über die "Deutsche Mitte"</description>
     <author email="kingpin0509@gmail.com" href="http://westweedtzerecords.biz">Michael Humann</author>
     <content src="index.html" />
     <access origin="*" />
@@ -83,4 +77,7 @@
     <preference name="SplashScreen" value="screen" />
     <preference name="ShowSplashScreenSpinner" value="true" />
     <preference name="AutoHideSplashScreen" value="false" />
+    <feature name="EmailComposer">
+        <param name="android-package" value="de.martinreinhardt.cordova.plugins.email.EmailComposer" />
+    </feature>
 </widget>

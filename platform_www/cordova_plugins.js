@@ -9,15 +9,6 @@ module.exports = [
         ]
     },
     {
-        "id": "cordova-plugin-email.EmailComposer",
-        "file": "plugins/cordova-plugin-email/www/email_composer.js",
-        "pluginId": "cordova-plugin-email",
-        "clobbers": [
-            "cordova.plugins.email",
-            "plugin.email"
-        ]
-    },
-    {
         "id": "cordova-plugin-facebook4.FacebookConnectPlugin",
         "file": "plugins/cordova-plugin-facebook4/www/facebook-native.js",
         "pluginId": "cordova-plugin-facebook4",
@@ -68,11 +59,12 @@ module.exports = [
         "runs": true
     },
     {
-        "id": "phonegap-plugin-barcodescanner.BarcodeScanner",
-        "file": "plugins/phonegap-plugin-barcodescanner/www/barcodescanner.js",
-        "pluginId": "phonegap-plugin-barcodescanner",
+        "id": "cordova-plugin-email.EmailComposer",
+        "file": "plugins/cordova-plugin-email/www/email_composer.js",
+        "pluginId": "cordova-plugin-email",
         "clobbers": [
-            "cordova.plugins.barcodeScanner"
+            "cordova.plugins.email",
+            "plugin.email"
         ]
     }
 ];
@@ -82,7 +74,6 @@ module.exports.metadata =
     "cordova-plugin-compat": "1.1.0",
     "cordova-plugin-console": "1.0.5",
     "cordova-plugin-device": "1.1.4",
-    "cordova-plugin-email": "1.2.6",
     "cordova-plugin-facebook4": "1.7.1",
     "cordova-plugin-inappbrowser": "1.6.1",
     "cordova-plugin-splashscreen": "4.0.3",
@@ -90,7 +81,7 @@ module.exports.metadata =
     "cordova-plugin-whitelist": "1.3.1",
     "cordova-plugin-x-socialsharing": "5.1.5",
     "ionic-plugin-keyboard": "2.2.1",
-    "phonegap-plugin-barcodescanner": "6.0.5"
+    "cordova-plugin-email": "1.2.6"
 };
 // BOTTOM OF METADATA
 });

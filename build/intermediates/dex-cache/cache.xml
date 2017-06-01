@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.8.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7679607a53988c76b23575d3e2bd473951773f29">
+        <dex dex="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\pre-dexed\release\com.facebook.android-facebook-android-sdk-4.8.2_c42cb5ea9249e199ee2baa6bfa2591728c4ef4cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\pre-dexed\release\com.android.support-multidex-1.0.1_8f159ac82cf87bac9e15546ef359acb0a5301030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\pre-dexed\release\support-annotations-24.1.1_11a98e338cda4beef8c90d09eb330a7046f9c9dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\pre-dexed\release\internal_impl-24.1.1_604bce27ee716fcbd118106268020c5e675bedc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.1.1_16a698f5571feef4f0a8139474258877105c2679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kingp\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\pre-dexed\release\bolts-android-1.2.1_08f87e94a8f718ebb2daacf67eef3fbe9f604b5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03ea17ffbc41fdabd0d6862a64ae5591eebeedc4">
+        <dex dex="U:\OneDrive\ionic2app-1.10.0\ionic2app\platforms\android\build\intermediates\pre-dexed\release\CordovaLib-unspecified-release_a0cc5132ff4ece8792412905a9c0f63dbd5320a6.jar" />
+    </item>
+
+</items>
